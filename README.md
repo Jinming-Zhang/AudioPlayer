@@ -1,2 +1,2 @@
 # AudioPlayer
-practices on playing audio files on java
+trying on playing audio files on java
